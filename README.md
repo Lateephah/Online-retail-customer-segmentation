@@ -235,7 +235,7 @@ Aggregated per customer, with recency measured from the day after the last invoi
 ## 👩🏾‍💻 Author
 
 **Latifah Usaini Bashir**
-Data Analyst | Computer Science (MSc, Data Mining)
+Data Analyst | Computer Science
 
 - GitHub: [@Lateephah](https://github.com/Lateephah)
 
